@@ -62,6 +62,10 @@ const CONFIG = {
 
   // Projects — most impressive first. metric: "" for none.
   projects: [
+    { emoji: "🛡️", title: "YAY or NAY", metric: "Live demo",
+      desc: "A creator-vetted, no-fake-reviews product platform — honest YAY/NAY verdicts, proof badges, and a de-influencing 'NAY list'. Researched the market and built end to end.",
+      tags: ["Product", "JavaScript", "Research", "GitHub Pages"],
+      link: "https://msohail15999.github.io/yay-or-nay/", repo: "https://github.com/msohail15999/yay-or-nay" },
     { emoji: "🦖", title: "Ragzilla — VS Code AI Extension", metric: "+30% dev productivity",
       desc: "A Copilot-style VS Code extension that generates Hardware Description Language on demand — TypeScript front end, Python GenAI backend, and a chat UI engineers actually enjoy using.",
       tags: ["TypeScript", "Python", "Generative AI", "VS Code API"], link: "#", repo: "#" },
